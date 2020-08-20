@@ -1,2 +1,3 @@
-# yet-another-todo-app
-Yet another todo app writen in react
+# Yet Another Too App
+
+Yet another todo app written in react

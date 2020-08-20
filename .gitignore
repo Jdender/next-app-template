@@ -1,0 +1,14 @@
+# Yarn
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+/.next/
+/out/
+/build
