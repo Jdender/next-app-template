@@ -1,5 +1,11 @@
 # Next.js App Template
 
+A simple webapp template to help you avoid doing the same project setup dance every time.
+
+No tool will work for everyone, and this template is no exception. This is mostly created from my personal experience spending the first two hours of every project figuring out how to get the same tools working together.
+
+As always: forks, issues, and pull requests are welcome, and thank you for checking this out.
+
 ## Built With
 
 -   [Next.js](https://nextjs.org/) - React Framework

@@ -1,7 +1,7 @@
 {
     "name": "next-app-template",
     "version": "0.0.0",
-    "description": "A template ",
+    "description": "A simple webapp template to help you avoid doing the same project setup dance every time.",
     "author": "Jdender~ <jdenderplays@gmail.com> (https://github.com/Jdender)",
     "license": "MIT",
     "private": true,
