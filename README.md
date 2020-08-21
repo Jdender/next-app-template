@@ -1,3 +1,10 @@
-# Yet Another Too App
+# Next.js App Template
 
-Yet another todo app written in react
+## Built With
+
+-   [Next.js](https://nextjs.org/) - React Framework
+-   [React](https://reactjs.org/) - Rendering Library
+-   [Yarn 2](https://yarnpkg.com/) - Package Manager
+-   [TypeScript](https://typescriptlang.org/) - Type Checker
+-   [ESLint](https://eslint.org/) - Linter
+-   [Prettier](https://prettier.io/) - Formatter

@@ -1,7 +1,7 @@
 {
-    "name": "yet-another-todo-app",
+    "name": "next-app-template",
     "version": "0.0.0",
-    "description": "Yet another todo app written in react",
+    "description": "A template ",
     "author": "Jdender~ <jdenderplays@gmail.com> (https://github.com/Jdender)",
     "license": "MIT",
     "private": true,
