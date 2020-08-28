@@ -32,8 +32,8 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Jdender/yet-another-todo-app.git"
+        "url": "git+https://github.com/Jdender/next-app-template.git"
     },
-    "bugs": "https://github.com/Jdender/yet-another-todo-app/issues",
-    "homepage": "https://github.com/Jdender/yet-another-todo-app#readme"
+    "bugs": "https://github.com/Jdender/next-app-template/issues",
+    "homepage": "https://github.com/Jdender/next-app-template#readme"
 }
