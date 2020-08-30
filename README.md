@@ -10,7 +10,7 @@ As always: forks, issues, and pull requests are welcome, and thank you for check
 
 -   [Next.js](https://nextjs.org/) - React Framework
 -   [React](https://reactjs.org/) - Rendering Library
--   [Yarn 2](https://yarnpkg.com/) - Package Manager
+-   [Yarn](https://classic.yarnpkg.com/) - Package Manager
 -   [TypeScript](https://typescriptlang.org/) - Type Checker
 -   [ESLint](https://eslint.org/) - Linter
 -   [Prettier](https://prettier.io/) - Formatter
@@ -19,20 +19,24 @@ As always: forks, issues, and pull requests are welcome, and thank you for check
 
 ### Step 1
 
-Install the needed packages:
-
-```bash
-$ yarn
-```
+Create a repo using this template by pressing the "Use this template" button.
 
 ### Step 2
 
-When prompted...
+Clone your new repo locally:
 
--   Allow VSCode to use the workspace version of TypeScript
--   Allow ESLint to use the workspace version of ESLint
+```bash
+$ git clone https://github.com/You/your-new-repo.git
+```
 
-The previous things don't support Yarn 2's [Plug'n'Play](https://yarnpkg.com/features/pnp) system yet, so Yarn must wrap them to be compatible.
+### Step 3
+
+Install the needed packages:
+
+```bash
+$ cd your-new-repo
+$ yarn
+```
 
 ## Usage
 
